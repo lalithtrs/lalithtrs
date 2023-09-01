@@ -1,4 +1,4 @@
-<h2 align="left">🤖 Machine Learning Engineer 🚀<br>🐍 Python | Django | FastAPI | TensorFlow | OpenCV| MLOps<br>Let's collaborate and innovate together! 💡</h2>
+<h2 align="center">🤖 Machine Learning Engineer 🚀<br>🐍 Python | Django | FastAPI | TensorFlow | OpenCV| MLOps<br>Let's collaborate and innovate together! 💡</h2>
 
 ###
 
@@ -9,11 +9,9 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/736x/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg"  />
-
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -37,25 +35,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/lalithtrs/lalithtrs/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lalithtrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -68,13 +48,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/lalithtrs/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
